@@ -66,6 +66,10 @@
 
 }
 
+ .listitem{
+    font-family: 'Patrick Hand', cursive;;
+}
+
 .name{
     font-size: 3em;
     font-weight: bold;
